@@ -14,11 +14,11 @@ class Computer:
         self.cpu.check()
 	self.mem.load()
 	self.hd.mount()
-    def printCPUInfo(self):
+    def printCPUInfo(self)
         self.cpu.getInfo()
-    def printMemInfo(self):
+    def printMemInfo(self)
         self.mem.getInfo()
-    def printHDInfo(self):
+    def printHDInfo(self)
         self.hd.getInfo()
 
 	
